@@ -1,6 +1,6 @@
 # Python environment with requirements.txt
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bcaldwell/financial-notebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bcaldwell/binder-base/master)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
