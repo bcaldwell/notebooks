@@ -1,0 +1,4 @@
+.cufflinks/
+.ipython/
+.local/
+**/.ipynb_checkpoints/
