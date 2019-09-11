@@ -1,2 +1,2 @@
 # pip install jupyter-repo2docker
-jupyter-repo2docker . --editable
+jupyter-repo2docker --editable .
